@@ -1,7 +1,7 @@
 - 👋 Hi, I’m R.sarathkumar
 - 👀 I’m interested in data science ,ML,AI
-- 🌱 I’m currently learning data science in guvi 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I Completed Data science Course 
+- 💞️ I’m looking to collaborate on a team to show case my skills and attitude
 - 📫 How to reach me on mail raosarathkumar@gmail.com
 
 <!---
